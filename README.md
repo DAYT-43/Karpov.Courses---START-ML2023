@@ -5,7 +5,6 @@
 <div id="badges" align="center">
 
 [![Karpov Courses](https://img.shields.io/badge/website-karpov.courses-red)](https://karpov.courses/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/QuantumFluxx/karpov_courses.svg)](https://github.com/DAYT-43/Karpov.Courses---START-ML2023) 
 
 </div>
 
